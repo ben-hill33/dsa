@@ -8,6 +8,9 @@ authors = ["Ben Hill <benjamin.hill28@gmail.com>"]
 python = "^3.9"
 pytest = "^6.2.4"
 pytest-watch = "^4.2.0"
+argon2-cffi = "19.1.0"
+jupyter = "^1.0.0"
+jupyterlab = "^3.1.4"
 
 [tool.poetry.dev-dependencies]
 
